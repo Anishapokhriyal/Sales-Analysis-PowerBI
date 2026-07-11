@@ -50,11 +50,7 @@ This project presents an interactive Power BI dashboard built to analyze Super S
 * Super_Store_Dashboard.pbix
 * Dataset (if shareable)
 * Dashboard Screenshots
-
-## Dashboard Preview
-
-(Add screenshots of your Power BI dashboard here)
-
+  
 ## Author
 
 Anisha Pokhriyal
